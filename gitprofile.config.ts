@@ -35,10 +35,18 @@ const CONFIG = {
         {
           title: 'Raspberry Pi v4',
           description:
-            'I took the Raspberri Pi 4 and put it in a cute case, attached a fan to it and now it is running a very cute amount of docker containers :D',
+            'I took the Raspberri Pi 4 and put it in a cute case.',
           imageUrl:
-            'https://i.ibb.co/GcH3xnm/IMG-1203.jpg',
+            'https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png',
           link: '',
+        },
+        {
+          title: 'Zooted Studios',
+          description:
+            'Created the Discord bot used for this Discord server, for only $8.00!',
+          imageUrl:
+            'https://i.ibb.co/qyHp0v2/735dcc566d85268747dc31107cdf85e9.webp',
+          link: 'https://discord.gg/F9fkatHJBK',
         }
       ],
     },
