@@ -9,7 +9,7 @@ const CONFIG = {
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
-  base: '/main',
+  base: '/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -38,7 +38,7 @@ const CONFIG = {
             'I took the Raspberri Pi 4 and put it in a cute case.',
           imageUrl:
             'https://download.logo.wine/logo/Raspberry_Pi/Raspberry_Pi-Logo.wine.png',
-          link: '/',
+          link: 'https://raspberrypi.com',
         },
         {
           title: 'Zooted Studios',
