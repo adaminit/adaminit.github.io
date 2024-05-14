@@ -73,7 +73,7 @@ const CONFIG = {
     telegram: '',
     website: 'https://adam93.site',
     phone: '',
-    email: 'adam.py@proton.me',
+    email: 'adamfletcherson@proton.me',
   },
   resume: {
     fileUrl:
